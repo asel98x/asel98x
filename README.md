@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Android & Web**
+- 💬 Ask me about **Android, windows application & Web **
 
 - 📫 How to reach me **vinjith98@gmail.com**
 
