@@ -1,8 +1,6 @@
-[![MasterHead](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-<h1 align="center">Hi 👋, I'm asel vinjitha</h1>
-<h3 align="center">Looking for new !@#$</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif">
+<h1 align="center">Hi 👋, I'm asel vinjitha</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asel98x&label=Profile%20views&color=0e75b6&style=flat" alt="asel98x" /> </p>
 
