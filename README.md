@@ -24,8 +24,12 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=asel98x&&theme=xcode)](https://github.com/asel98x)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asel98x&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="asel98x" /></p>
+<p align="center">
+<a href="https://github.com/asel98x">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=asel98x&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asel98x&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asel98x&show_icons=true&locale=en&theme=tokyonight" alt="asel98x" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asel98x&&theme=tokyonight" alt="asel98x" /></p>
