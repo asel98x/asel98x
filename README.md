@@ -28,8 +28,8 @@
 <a href="https://github.com/asel98x">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=asel98x&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asel98x&layout=compact&langs_count=8&theme=algolia"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asel98x&&theme=algolia" alt="asel98x" />
 </a>
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asel98x&&theme=tokyonight" alt="asel98x" /></p>
