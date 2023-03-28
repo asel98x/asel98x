@@ -6,9 +6,9 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Android, windows application & Web**
+- 💬 Ask me about **Android, windows application , Web & Machine Learning**
 
 - 📫 How to reach me **vinjith98@gmail.com**
 
