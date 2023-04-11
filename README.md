@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter & Dart**
 
 - 💬 Ask me about **Android, windows application , Web & Machine Learning**
 
